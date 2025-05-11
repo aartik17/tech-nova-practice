@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'technova-inventory'
-        DOCKERHUB_REPO = 'aarti1704/technova-inventory'
+        IMAGE_NAME = 'technova-inventory1'
+        DOCKERHUB_REPO = 'aarti1704/technova-inventory1'
     }
 
     stages {
